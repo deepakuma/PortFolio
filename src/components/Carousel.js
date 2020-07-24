@@ -48,6 +48,39 @@ class Carousel extends React.Component {
                     selected: false
 
                 },
+                {
+                    id:4,
+                    title: 'Quiz-App',
+                    subTitle: 'Using Javascript, Html, CSS',
+                   // imgSrc:chaos ,
+                    link:'https://deepakuma.github.io/Quiz-app/',
+                    selected: false
+
+                },
+                 {
+                    id:5,
+                    title: 'Interactive-Mario',
+                    subTitle: 'Using Javascript, Html, CSS',
+                   // imgSrc:chaos ,
+                    link:'https://deepakuma.github.io/interactive-maro/',
+                    selected: false
+                },
+                  {
+                    id:6,
+                    title: 'Covid-Fighter',
+                    subTitle: 'Using Javascript, Html, CSS',
+                   // imgSrc:chaos ,
+                    link:'https://deepakuma.github.io/covid-fighter/',
+                    selected: false
+                },
+                {
+                    id:7,
+                    title: 'Spin-Win',
+                    subTitle: 'Using Javascript, Html, CSS',
+                   // imgSrc:chaos ,
+                    link:'https://deepakuma.github.io/Spin/',
+                    selected: false
+                },
             ]
         }
     }
