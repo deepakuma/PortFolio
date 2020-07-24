@@ -6,6 +6,10 @@ import snake from '../assets/images/snake.png';
 import calculator from '../assets/images/calculator.jpeg';
 import chatlist from '../assets/images/chatlist.png';
 import chaos from '../assets/images/chaos.jpeg';
+import quiz from '../assets/images/quiz.png';
+import covid from '../assets/images/covid.jpeg';
+import mario from '../assets/images/mario.jpg';
+import spin from '../assets/images/spin.jpeg';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
@@ -52,7 +56,7 @@ class Carousel extends React.Component {
                     id:4,
                     title: 'Quiz-App',
                     subTitle: 'Using Javascript, Html, CSS',
-                   // imgSrc:chaos ,
+                    imgSrc:quiz,
                     link:'https://deepakuma.github.io/Quiz-app/',
                     selected: false
 
@@ -61,7 +65,7 @@ class Carousel extends React.Component {
                     id:5,
                     title: 'Interactive-Mario',
                     subTitle: 'Using Javascript, Html, CSS',
-                   // imgSrc:chaos ,
+                    imgSrc:mario ,
                     link:'https://deepakuma.github.io/interactive-maro/',
                     selected: false
                 },
@@ -69,7 +73,7 @@ class Carousel extends React.Component {
                     id:6,
                     title: 'Covid-Fighter',
                     subTitle: 'Using Javascript, Html, CSS',
-                   // imgSrc:chaos ,
+                    imgSrc:covid ,
                     link:'https://deepakuma.github.io/covid-fighter/',
                     selected: false
                 },
@@ -77,7 +81,7 @@ class Carousel extends React.Component {
                     id:7,
                     title: 'Spin-Win',
                     subTitle: 'Using Javascript, Html, CSS',
-                   // imgSrc:chaos ,
+                    imgSrc:spin ,
                     link:'https://deepakuma.github.io/Spin/',
                     selected: false
                 },
