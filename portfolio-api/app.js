@@ -33,7 +33,7 @@ app.post('/api/email', (req, res, next) => {
 
     sendGrid.setApiKey('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');
     const msg = {
-       // to: 'deepakumari22.3.1999@gmail.com',
+        to: 'deepakumari22.3.1999@gmail.com',
         from: req.body.email,
         subject: 'Website Contact',
         text: req.body.message
