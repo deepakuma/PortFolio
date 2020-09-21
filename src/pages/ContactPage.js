@@ -107,7 +107,7 @@ class ContactPage extends React.Component {
                  </div>
             <div class="content">
                <ul class="list">
-                   <li>Also checkout<a href="https://www.linkedin.com/in/deepa-kumari-337131157"> My Linkedin</a></li>
+                   <li>Also checkout<a href="https://www.linkedin.com/in/kdeepa17"> My Linkedin</a></li>
                    <li>Not frequent there <a href="https://facebook.com/kdeepa19">Facebook</a> </li>
                    <li>More about me at <a href="https://github.com/deepakuma">github</a></li>
                </ul>
